@@ -6,18 +6,25 @@ Menu,Tray,Tip,%TrayTip%
 Menu,Tray,Icon,%TrayIconFile%,%TrayIconNum%
 Return
 
-;;;; End Home keys;;;;;;;;;;;;;;
+;;;; Move cursor keys;;;;;;;;;;;;;;
 ^+'::
 	Send, {Home}
 Return
 ^'::
 	Send, {End}
 Return
-
-;;;; Right Arrow to Shift Tab;;;;;;;;;;;;;;
-+Tab::
-	Send, {Right}
+!J:: 
+	Send, {Left}
 Return
+!I:: 
+	Send, {Up}
+Return
+!K:: 
+	Send, {Down}
+Return
+!L:: 
+	Send, {Right}
+Return	
 
 ;;;;; Win+Q Send Alt+F4 ;;;;;
 #q::
