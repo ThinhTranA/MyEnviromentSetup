@@ -1,7 +1,10 @@
 ### My hot keys
-Ctr+Shift+ ': Home
-Ctr+' : End
-Shift+Tab: RightArrowKey
+Alt+;': Home  
+Alt+' : End  
+Alt+J: Left  
+Alt+I: Up  
+Alt+K: Down  oo
+Alt+L: Right  
 
 Win+ Q: Alt+F4 Close window  
 Win+ W: Ctr+F4 Close tab  

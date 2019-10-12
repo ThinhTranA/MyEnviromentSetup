@@ -7,10 +7,10 @@ Menu,Tray,Icon,%TrayIconFile%,%TrayIconNum%
 Return
 
 ;;;; Move cursor keys;;;;;;;;;;;;;;
-^+'::
+!;::
 	Send, {Home}
 Return
-^'::
+!'::
 	Send, {End}
 Return
 !J:: 
