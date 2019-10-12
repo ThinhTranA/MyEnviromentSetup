@@ -6,6 +6,11 @@ Menu,Tray,Tip,%TrayTip%
 Menu,Tray,Icon,%TrayIconFile%,%TrayIconNum%
 Return
 
+;;;; Right Arrow to Shift Tab;;;;;;;;;;;;;;
++Tab::
+	Send, {Right}
+Return
+
 ;;;;; Win+Q Send Alt+F4 ;;;;;
 #q::
 	Send, !{F4}  	
@@ -16,4 +21,3 @@ F10:: Volume_Mute
 F11:: Volume_Down
 F12:: Volume_Up
 Return
-	
