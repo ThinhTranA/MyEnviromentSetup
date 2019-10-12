@@ -1,17 +1,17 @@
 ### My hot keys
-Alt+;': Home  
-Alt+' : End  
-Alt+J: Left  
-Alt+I: Up  
-Alt+K: Down  oo
-Alt+L: Right  
+Alt+  'Home'  
+Alt+' 'End'  
+Alt+J 'Left'    
+Alt+I 'Up'  
+Alt+K 'Down'  
+Alt+L 'Right'  
 
-Win+ Q: Alt+F4 Close window  
-Win+ W: Ctr+F4 Close tab  
+Win+ Q 'Alt+F4' Close window  
+Win+ W 'Ctr+F4' Close tab  
 
-F10 : Volume mute  
-F11 : Volume down  
-F12 : Volume up  
+F10  'Volume mute'  
+F11  'Volume down'  
+F12  'Volume up'  
 
 
 ### Setup Autohotkey to run on launch:
