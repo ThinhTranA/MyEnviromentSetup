@@ -1,5 +1,5 @@
 ### My hot keys
-Alt+  'Home'  
+Alt+;  'Home'  
 Alt+' 'End'  
 Alt+J 'Left'    
 Alt+I 'Up'  
