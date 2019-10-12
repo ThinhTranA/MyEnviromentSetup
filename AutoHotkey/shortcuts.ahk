@@ -6,6 +6,15 @@ Menu,Tray,Tip,%TrayTip%
 Menu,Tray,Icon,%TrayIconFile%,%TrayIconNum%
 Return
 
+
+;;;; Scroll keys;;;;;;;;;;;;;;
+![::
+	Send, ^{Down}
+Return
+!]::
+	Send, ^{Up}
+Return
+
 ;;;; Move cursor keys;;;;;;;;;;;;;;
 !;::
 	Send, {Home}

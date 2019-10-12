@@ -1,4 +1,6 @@
 ### My hot keys
+Alt+[  `Ctr+Down` Scroll down  
+Alt+]  `Ctr+Up` Scroll up
 Alt+;  `Home`      
 Alt+' `End`  
 Alt+J `Left`    
@@ -15,8 +17,8 @@ F12  `Volume up`
 
 
 ### Setup Autohotkey to run on launch:
-Win+R : Run  
-then Type: shell:common startup  
+Win+R : `Run`  
+then Type: `shell:common startup`  
 Copy/Paste the `shortcuts.ahk` onto the Startup folder. This will run when ever windows start up
 
 Or video setup: https://www.youtube.com/watch?v=qoWHDpz5v-E  at 4:11
