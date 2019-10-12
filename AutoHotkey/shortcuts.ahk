@@ -6,6 +6,14 @@ Menu,Tray,Tip,%TrayTip%
 Menu,Tray,Icon,%TrayIconFile%,%TrayIconNum%
 Return
 
+;;;; End Home keys;;;;;;;;;;;;;;
+^+'::
+	Send, {Home}
+Return
+^'::
+	Send, {End}
+Return
+
 ;;;; Right Arrow to Shift Tab;;;;;;;;;;;;;;
 +Tab::
 	Send, {Right}
