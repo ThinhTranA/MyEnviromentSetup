@@ -6,6 +6,13 @@ Menu,Tray,Tip,%TrayTip%
 Menu,Tray,Icon,%TrayIconFile%,%TrayIconNum%
 Return
 
+;;;; Selection keys;;;;;;;;;;;;;;
+					;;;;Select a line
+!A::
+	Send, {Home}
+	Send, {Shift}+{End}
+Return
+
 
 ;;;; Scroll keys;;;;;;;;;;;;;;
 ![::
