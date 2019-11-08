@@ -1,4 +1,6 @@
 ### My hot keys
+
+Alt+A `Home,Shift+End` Select current line
 Alt+[  `Ctr+Down` Scroll down  
 Alt+]  `Ctr+Up` Scroll up
 Alt+;  `Home`      
